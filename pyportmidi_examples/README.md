@@ -1,7 +1,7 @@
 pyportmidi examples
 ==================
 
-### ab out ###
+###ab out###
 
 These are some very quick sketches to explore the usability of the portmidi bindings in python (pyportmidi). 
 
@@ -9,7 +9,7 @@ It is here for example purposes since pyportmidi came with less examples than I 
 
 I did not continue exploring pyportmidi and instead wrote my own MIDI libraries in Go. 
 
-### in stall at ion ### 
+###in stall at ion### 
 
 Getting the necessary packages in place will probably be a pain. 
 
@@ -28,7 +28,7 @@ Hints:
 -- http://alumni.media.mit.edu/~harrison/pyportmidi.html
 -- gl;hf
 
-### us age ###
+###us age###
 
 Just run the `print_devices.py` to see if things are working properly.
 
